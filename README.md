@@ -33,14 +33,12 @@ Work with six related tables, which contain eCommerce data about:
 
 ### 2. What is the minimum, maximum, and average time between the first and second session for customers who do come back?
 
-<img src="https://github.com/PennyLi123/Sales-Analysis-SQL/raw/master/User%20Analysis%20Results/User%20Analysis%20Q2.jpg" width="340">
+<img src="https://github.com/PennyLi123/Sales-Analysis-SQL/raw/master/User%20Analysis%20Results/User%20Analysis%20Q2.jpg" width="350">
 
 
 Repeat visitors are coming back about a month later, on average.
 
 ### 3. Which channels are repeat visitors come back through? If its all direct type-in, or if company paying for these customers with paid search ads multiple times.
-
-![User Analysis Results/User Analysis Q3.jpg](https://github.com/PennyLi123/Sales-Analysis-SQL/blob/master/User%20Analysis%20Results/User%20Analysis%20Q3.jpg)
 
 <img src="https://github.com/PennyLi123/Sales-Analysis-SQL/raw/master/User%20Analysis%20Results/User%20Analysis%20Q3.jpg" width="250">
 
@@ -52,6 +50,9 @@ So all in all, company is not paying very much for these subsequent visits.
 ### 4. Comparison of conversion rates and revenue per session for repeat sessions vs new sessions.
 
 ![User Analysis Results/User Analysis Q4.jpg](https://github.com/PennyLi123/Sales-Analysis-SQL/blob/master/User%20Analysis%20Results/User%20Analysis%20Q4.jpg)
+
+<img src="https://github.com/PennyLi123/Sales-Analysis-SQL/raw/master/User%20Analysis%20Results/User%20Analysis%20Q4.jpg" width="350">
+
 
 Repeat sessions are more likely to convert, and produce more revenue per session.
 
