@@ -67,7 +67,7 @@ And similar large growth in session volume.
 
 ### 2. Showcase all of the efficiency improvements since the company launched, for session-to-order conversion rate, revenue per session, and revenue per order.
 
-<img src="https://github.com/PennyLi123/Sales-Analysis-SQL/raw/master/Sales%20Growth%20Results/Sales%20Growth%20Q2.jpg" width="550">
+<img src="https://github.com/PennyLi123/Sales-Analysis-SQL/raw/master/Sales%20Growth%20Results/Sales%20Growth%20Q2.jpg" width="450">
 
 The session to order conversion rate has gone from 3% to 8%. 
 The revenue per order has gone from $49 to above $60 by doing cross-sell.
@@ -104,7 +104,7 @@ And similarly, the rate of people seeing the product page and then converting to
 
 ### 7. How well each product cross-sells from one another?
 
-<img src="https://github.com/PennyLi123/Sales-Analysis-SQL/raw/master/Sales%20Growth%20Results/Sales%20Growth%20Q7.jpg" width="360">
+<img src="https://github.com/PennyLi123/Sales-Analysis-SQL/raw/master/Sales%20Growth%20Results/Sales%20Growth%20Q7.jpg" width="460">
 
 Product 3 cross sells pretty well for Product 1, Product 4 cross sells really well for all of the products above 20% of the orders for primary product one, two and three end up purchasing product for as well.
 
