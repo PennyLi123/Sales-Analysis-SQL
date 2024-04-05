@@ -42,7 +42,7 @@ Repeat visitors are coming back about a month later, on average.
 
 ![User Analysis Results/User Analysis Q3.jpg](https://github.com/PennyLi123/Sales-Analysis-SQL/blob/master/User%20Analysis%20Results/User%20Analysis%20Q3.jpg)
 
-<img src="https://github.com/PennyLi123/Sales-Analysis-SQL/raw/master/User%20Analysis%20Results/User%20Analysis%20Q3.jpg" width="150">
+<img src="https://github.com/PennyLi123/Sales-Analysis-SQL/raw/master/User%20Analysis%20Results/User%20Analysis%20Q3.jpg" width="200">
 
 
 When customers come back for repeat visits, they come mainly through organic search, direct type-in, and paid brand.
