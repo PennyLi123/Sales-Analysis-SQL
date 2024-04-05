@@ -33,7 +33,7 @@ Work with six related tables, which contain eCommerce data about:
 
 ### 2. What is the minimum, maximum, and average time between the first and second session for customers who do come back?
 
-<img src="https://github.com/PennyLi123/Sales-Analysis-SQL/raw/master/User%20Analysis%20Results/User%20Analysis%20Q2.jpg" width="350">
+<img src="https://github.com/PennyLi123/Sales-Analysis-SQL/raw/master/User%20Analysis%20Results/User%20Analysis%20Q2.jpg" width="390">
 
 
 Repeat visitors are coming back about a month later, on average.
@@ -49,8 +49,6 @@ So all in all, company is not paying very much for these subsequent visits.
 
 ### 4. Comparison of conversion rates and revenue per session for repeat sessions vs new sessions.
 
-![User Analysis Results/User Analysis Q4.jpg](https://github.com/PennyLi123/Sales-Analysis-SQL/blob/master/User%20Analysis%20Results/User%20Analysis%20Q4.jpg)
-
 <img src="https://github.com/PennyLi123/Sales-Analysis-SQL/raw/master/User%20Analysis%20Results/User%20Analysis%20Q4.jpg" width="350">
 
 
@@ -60,6 +58,8 @@ Repeat sessions are more likely to convert, and produce more revenue per session
 # Query Result - Sales growth analysis
 ### 1. Show company's volume growth for the life of the business.
 ![Sales Growth Results/Sales Growth Q1.jpg](https://github.com/PennyLi123/Sales-Analysis-SQL/blob/master/Sales%20Growth%20Results/Sales%20Growth%20Q1.jpg)
+
+<img src="https://github.com/PennyLi123/Sales-Analysis-SQL/raw/master/Sales%20Growth%20Results/Sales%20Growth%20Q1.jpg" width="350">
 
 At the end of a three year run of this business, the company has large growth in both orders volume and session's volume. 
 
