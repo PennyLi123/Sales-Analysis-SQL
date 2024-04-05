@@ -27,7 +27,7 @@ Work with six related tables, which contain eCommerce data about:
 # Query Result - User Analysis
 ### 1. How many of e-commerce website visitors come back to the website for another session?
 
-<img src="https://github.com/PennyLi123/Sales-Analysis-SQL/raw/master/User%20Analysis%20Results/User%20Analysis%20Q1.jpg" width="215">
+<img src="https://github.com/PennyLi123/Sales-Analysis-SQL/raw/master/User%20Analysis%20Results/User%20Analysis%20Q1.jpg" width="300">
 
 
 
