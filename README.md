@@ -27,13 +27,11 @@ Work with six related tables, which contain eCommerce data about:
 # Query Result - User Analysis
 ### 1. How many of e-commerce website visitors come back to the website for another session?
 
-<img src="https://github.com/PennyLi123/Sales-Analysis-SQL/raw/master/User%20Analysis%20Results/User%20Analysis%20Q1.jpg" width="170">
+<img src="https://github.com/PennyLi123/Sales-Analysis-SQL/raw/master/User%20Analysis%20Results/User%20Analysis%20Q1.jpg" width="150">
 
 
 
 ### 2. What is the minimum, maximum, and average time between the first and second session for customers who do come back?
-
-![User Analysis Results/User Analysis Q2.jpg](https://github.com/PennyLi123/Sales-Analysis-SQL/blob/master/User%20Analysis%20Results/User%20Analysis%20Q2.jpg)
 
 <img src="https://github.com/PennyLi123/Sales-Analysis-SQL/raw/master/User%20Analysis%20Results/User%20Analysis%20Q2.jpg" width="340">
 
@@ -43,6 +41,9 @@ Repeat visitors are coming back about a month later, on average.
 ### 3. Which channels are repeat visitors come back through? If its all direct type-in, or if company paying for these customers with paid search ads multiple times.
 
 ![User Analysis Results/User Analysis Q3.jpg](https://github.com/PennyLi123/Sales-Analysis-SQL/blob/master/User%20Analysis%20Results/User%20Analysis%20Q3.jpg)
+
+<img src="https://github.com/PennyLi123/Sales-Analysis-SQL/raw/master/User%20Analysis%20Results/User%20Analysis%20Q3.jpg" width="150">
+
 
 When customers come back for repeat visits, they come mainly through organic search, direct type-in, and paid brand.
 Only about 1/3 come through a paid channel, and brand clicks are cheaper than non-brand. 
