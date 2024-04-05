@@ -21,7 +21,7 @@ Work with six related tables, which contain eCommerce data about:
 • Orders and Refunds
 
 # Dataset Schema
-![Schema.png](https://github.com/PennyLi123/Sales-Analysis-SQL/blob/master/Schema.png){:width="430"}
+<img src="https://github.com/PennyLi123/Sales-Analysis-SQL/blob/master/Schema.png" width="430">
 
 
 # Query Result - User Analysis
