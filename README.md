@@ -35,7 +35,7 @@ Work with six related tables, which contain eCommerce data about:
 
 ![User Analysis Results/User Analysis Q2.jpg](https://github.com/PennyLi123/Sales-Analysis-SQL/blob/master/User%20Analysis%20Results/User%20Analysis%20Q2.jpg)
 
-<img src="https://github.com/PennyLi123/Sales-Analysis-SQL/raw/master/User%20Analysis%20Results/User%20Analysis%20Q2.jpg" width="215">
+<img src="https://github.com/PennyLi123/Sales-Analysis-SQL/raw/master/User%20Analysis%20Results/User%20Analysis%20Q2.jpg" width="250">
 
 
 Repeat visitors are coming back about a month later, on average.
