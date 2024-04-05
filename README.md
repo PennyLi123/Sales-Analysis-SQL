@@ -26,7 +26,6 @@ Work with six related tables, which contain eCommerce data about:
 
 # Query Result - User Analysis
 ### 1. How many of e-commerce website visitors come back to the website for another session?
-![User Analysis Results/User Analysis Q1.jpg](https://github.com/PennyLi123/Sales-Analysis-SQL/blob/master/User%20Analysis%20Results/User%20Analysis%20Q1.jpg)
 
 <img src="https://github.com/PennyLi123/Sales-Analysis-SQL/raw/master/User%20Analysis%20Results/User%20Analysis%20Q1.jpg" width="215">
 
@@ -35,6 +34,9 @@ Work with six related tables, which contain eCommerce data about:
 ### 2. What is the minimum, maximum, and average time between the first and second session for customers who do come back?
 
 ![User Analysis Results/User Analysis Q2.jpg](https://github.com/PennyLi123/Sales-Analysis-SQL/blob/master/User%20Analysis%20Results/User%20Analysis%20Q2.jpg)
+
+<img src="https://github.com/PennyLi123/Sales-Analysis-SQL/raw/master/User%20Analysis%20Results/User%20Analysis%20Q2.jpg" width="215">
+
 
 Repeat visitors are coming back about a month later, on average.
 
