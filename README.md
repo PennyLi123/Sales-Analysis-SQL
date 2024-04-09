@@ -1,4 +1,4 @@
-# <p align="center">E-commerce Toy Sales Analysis</p> 
+# Sales-Analysis
 # Project Overview
 Utilise SQL to assist a e-commerce toy product company in enhancing its business growth by performing user analysis and toy sales analysis.
 
